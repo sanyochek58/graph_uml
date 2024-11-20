@@ -54,11 +54,11 @@ graph.uml - Файл зависимостей графа
 Запустим тесты и посмотрим корректность работы программы:
 
 
-(![Снимок экрана 2024-11-20 231351](https://github.com/user-attachments/assets/7602891a-71d2-4618-addf-677d170bf738))
+![Снимок экрана 2024-11-20 231351](https://github.com/user-attachments/assets/7602891a-71d2-4618-addf-677d170bf738)
 
 
 Выведем картинку графа:
 
 
 
-(![graph2](https://github.com/user-attachments/assets/c4ba51a0-c365-4083-b09b-953188cf2f08))
+![graph2](https://github.com/user-attachments/assets/c4ba51a0-c365-4083-b09b-953188cf2f08)

@@ -61,4 +61,4 @@ graph.uml - Файл зависимостей графа
 
 
 
-![graph2](https://github.com/user-attachments/assets/c4ba51a0-c365-4083-b09b-953188cf2f08)
+![graph](https://github.com/user-attachments/assets/2b5dc906-8d5c-491e-944d-f31593ffa5f2)
